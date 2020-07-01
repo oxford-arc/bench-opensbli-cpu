@@ -1,4 +1,4 @@
-# OpenSBLI Benchmark
+# OpenSBLI benchmark
 
 To aid with standardisation across UK HPC systems, our OpenSBLI benchmark is identical to the "LARGE (1024)" one used by ARCHER, the UK national HPC service.
 
