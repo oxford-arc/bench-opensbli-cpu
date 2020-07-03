@@ -4,7 +4,11 @@ To aid with standardisation across UK HPC systems, our OpenSBLI benchmark is ide
 
 Details of how to build and run the benchmark may be found in the ARCHER repository here: https://github.com/hpc-uk/archer-benchmarks/tree/master/apps/OpenSBLI
 
-# Results from recently procured ARC cluster
+# Results 
+
+The follwoing results are from runs on a recently installed ARC cluster. 
+
+OpenSBLI was built with Intel Compiler 2019 and Intel MPI 2019 - with HDF5 1.8.15-p1 
 
 Single Node
 ```
