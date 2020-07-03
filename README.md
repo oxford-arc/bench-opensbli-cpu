@@ -6,7 +6,7 @@ Details of how to build and run the benchmark may be found in the ARCHER reposit
 
 # Results 
 
-The follwoing results are from runs on a recently installed ARC cluster. 
+The following results are from runs on a recently installed ARC cluster. 
 
 OpenSBLI was built with Intel Compiler 2019 and Intel MPI 2019 - with HDF5 1.8.15-p1 
 
